@@ -1,5 +1,5 @@
-#wiivc-bis
-Wii VC universal assets for injection on Wii U
+ wiivc-bis
+#Wii VC universal assets for injection on Wii U
 
 This project started as a small request and template sharing thread over gbatemp, it eventually grow into a big project which goal is set a standart for Wii U injection, now it adds practically all injectable console templates.   
 
