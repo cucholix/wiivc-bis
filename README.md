@@ -1,6 +1,10 @@
-# Wii U VC universal assets for injection
+# WiiVC Banner/Icon/Sound (BIS)
 
 This project started as a small request and template sharing thread over gbatemp, it eventually grow into a big project which goal is set a standart for Wii U injection, now it adds practically all injectable console templates.   
+
+## Banner/icon creation guidelines:
+* The template is pretty self-explanatory, you will need SCE-PS3 Rodin Latin Bold font, for japanese titles use Kozuka Gothic Pr6N font.
+* Title screens resizing should use bicubic interpolation.
 
 ## This repo includes: 
 * A collection of Wii banners (.bnr)
