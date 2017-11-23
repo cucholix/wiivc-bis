@@ -21,7 +21,9 @@ This project started as a small request and template sharing thread over gbatemp
 * GBC template (Atomic Purple) (by cucholix) 
 * GBA template (by Crazystato) 
 * TG16 template (by markehmus)
-* Improved TG16 template (by dj_skual)  
+* Improved TG16 template (by dj_skual) 
+* TG16 CD template (by markehmus)
+* PCE/CD (by cucholix) 
 * Famicom and Super Famicom (by dj_skual)
 * PAL NES and SNES (by dj_skual)
 
